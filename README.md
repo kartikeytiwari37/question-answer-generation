@@ -8,6 +8,10 @@
 
 3. [Felix Limanta](https://github.com/felixlimanta)
 
+4. [Kartikey Tiwari](https://github.com/felixlimanta)
+
+
+
 ## English Paper
 
 We have a technical report that explains our question-answer generation system [here](https://www.researchgate.net/publication/328916588_Automatic_Question-Answer_Pairs_Generation_from_Text).
